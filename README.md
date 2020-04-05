@@ -57,6 +57,7 @@ See the section about running tests for more information.</p>
 It correctly bundles React in production mode and optimizes the build for the best performance.</p>
 
 <p align="center">The build is minified and the filenames include the hashes.</p>
+</br>
 <h3><p align="center">Your app is ready to be deployed!</p></h3>
 
 <p align="center">See the section about deployment for more information.</p>
