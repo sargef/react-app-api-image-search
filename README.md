@@ -1,4 +1,4 @@
-<h1><b><p align="center">  :sparkles: React App Api Image Search :sparkles: </p></b></h1>
+<h1><b><p align="center">React App Api Image Search</p></b></h1>
 
 
 <h3><b><p align="center">Click to see live Image Search Submission!!</p></b></h3>
@@ -6,7 +6,7 @@
 
 <h2><b><p align="center">Image Search via Flickr</p></b></h2>
 
-<h1 style="color:blue"><p align="center">The react api image search will require the following before running the app;</p></h1>
+<h1 style="color:blue"><p align="center"> :sparkles: The react api image search will require the following before running the app; :sparkles: </p></h1>
 <br />
 
 
