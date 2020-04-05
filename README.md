@@ -6,7 +6,7 @@
 
 <h2><b><p align="center">Image Search via Flickr</p></b></h2>
 
-```diff - <h1 style="color:blue"><p align="center"> :sparkles: The react api image search will require the following :sparkles: before running the app;  </p></h1>```
+<h1 style="color:blue"><p align="center"> :sparkles: The react api image search will require the following :sparkles: before running the app;  </p></h1>
 <br />
 
 ```diff
@@ -36,7 +36,7 @@
 
 <h2><b><p align="center">Create React App references below;</p></b></h2>
 
-```npm start```
+```diff -npm start```
   
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
