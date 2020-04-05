@@ -18,7 +18,7 @@ import Error404Page from './Views/Error404Page';
 // Create app class and export 
 export default class App extends Component {
   
-// Create original state of objects
+// Create original state of query arrays
   constructor() {
     super();
     this.state = {
