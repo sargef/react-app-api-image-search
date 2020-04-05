@@ -33,7 +33,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 <h3><b><p align="center">npm start.</p></b></h3>
 </br>
-----------------------------------------------------------------------------------------------------------------------------------------
+
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
@@ -44,7 +44,7 @@ You will also see any lint errors in the console.
 ----------------------------------------------------------------------------------------------------------------------------------------
 <h3><b><p align="center">npm test.</p></b></h3>
 </br>
-----------------------------------------------------------------------------------------------------------------------------------------
+
 
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
@@ -52,7 +52,6 @@ See the section about running tests for more information.
 ----------------------------------------------------------------------------------------------------------------------------------------
 <h3><b><p align="center">npm run build.</p></b></h3>
 </br>
-----------------------------------------------------------------------------------------------------------------------------------------
 
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
