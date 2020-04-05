@@ -9,7 +9,8 @@ export default class SearchForm extends Component {
   onSearchChange = e => {
     this.setState({ searchText: e.target.value });
   }
-  
+ 
+  // Focus cursor on search box on page load
   componentDidMount() {
     this.query.focus();
   }
@@ -19,7 +20,7 @@ export default class SearchForm extends Component {
     this.props.onSearch(this.query.value);
     e.currentTarget.reset();
   }
-  
+  // Render search form page elements with search results
   render() {  
     return (
       <form className="search-form" onSubmit={this.handleSubmit}>
