@@ -22,7 +22,7 @@
 
 Create React App references below;
 
-<h3><b>```npm start```</b></h3>
+```<h3><b>npm start</b></h3>```
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
