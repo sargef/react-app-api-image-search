@@ -9,18 +9,11 @@
 <h1 style="color:blue"><p align="center"> :sparkles: The react api image search will require the following :sparkles: before running the app;  </p></h1>
 <br />
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
-
 <h4><b>1. Sign up with flickr and apply for a non-commercial api key https://www.flickr.com/services/apps/create/apply.</h4></b>
 <h4><b>2. Provide a config.js file in the root of your project, within this file add your api key like so;.</h4></b>
 <br />
 
-<h2><b><p style='color:red' align="center">const apiKey = 'YOUR API KEY';</p></b></h2>
+<h2><b><p align="center">const apiKey = 'YOUR API KEY';</p></b></h2>
 <h2><b><p align="center">export default apiKey;</p></b></h2>
 .
 <br />
@@ -35,8 +28,13 @@
 
 
 <h2><b><p align="center">Create React App references below;</p></b></h2>
+</br>
 
-```diff - npm start```
+```diff
+- npm start
+```
+
+```npm start```
   
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
