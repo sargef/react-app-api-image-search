@@ -20,7 +20,7 @@
 <br />
 <h4><b>3. Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details</h4></b>
 
-<a align="center"><img src="https://github.com/sargef/react-app-api-image-search/blob/master/src/images/config.png" width="150" height="60"></a>
+<p align="center"><a><img src="https://github.com/sargef/react-app-api-image-search/blob/master/src/images/config.png" width="180" height="90"></a></p>
 
 <h4><b>4. Run npm install in the root of the project.</h4></b>
 <h4><b>5. npm start.</h4></b>
