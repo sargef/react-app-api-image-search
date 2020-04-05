@@ -7,18 +7,18 @@
 
 <h2><b><p align="center">Image Search via Flickr</p></b></h2>
 
-The react api image search will require the following before running the app;
+<p align="center">The react api image search will require the following before running the app;</p>
 
-1. Sign up with flickr and apply for a non-commercial api key https://www.flickr.com/services/apps/create/apply
-2. Provide a config.js file in the root of your project, within this file add your api key like so;
+__1. Sign up with flickr and apply for a non-commercial api key https://www.flickr.com/services/apps/create/apply
+2. Provide a config.js file in the root of your project, within this file add your api key like so;__
 
-const apiKey = 'YOUR API KEY';
-export default apiKey;
+__const apiKey = 'YOUR API KEY';
+export default apiKey;__
 
-3. Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details.
-4. Run npm install in the root of the project.
-5. npm start.
-6. View on localhost port 3000 as suggested inside your terminal. :+1:
+__3. Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details.
+4. Run npm install in the root of the project.__
+__5. npm start.
+6. View on localhost port 3000 as suggested inside your terminal.__ :+1:
 
 Create React App references below;
 
