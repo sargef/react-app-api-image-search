@@ -7,7 +7,7 @@
 
 <h2><b><p align="center">Image Search via Flickr</p></b></h2>
 
-<h1><p align="center">The react api image search will require the following before running the app;</p></h1>
+<h1 class="blue" id="blue-h"><p align="center">The react api image search will require the following before running the app;</p></h1>
 <br />
 
 
