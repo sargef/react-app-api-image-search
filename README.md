@@ -15,8 +15,8 @@
 <h4><b>2. Provide a config.js file in the root of your project, within this file add your api key like so;.</h4></b>
 <br />
 
-<h3><b><p align="center">const apiKey = 'YOUR API KEY';</p></b></h3>
-<h3><b><p align="center">export default apiKey;</p></b></h3>
+<h2><b><p align="center">const apiKey = 'YOUR API KEY';</p></b></h2>
+<h2><b><p align="center">export default apiKey;</p></b></h2>
 .
 <br />
 <br />
