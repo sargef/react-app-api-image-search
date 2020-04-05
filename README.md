@@ -6,7 +6,7 @@
 
 <h2><b><p align="center">Image Search via Flickr</p></b></h2>
 
-<h1 style="color:blue"><p align="center"> :sparkles: The react api image search will require the following before running the app; :sparkles: </p></h1>
+<h1 style="color:blue"><p align="center"> :sparkles: The react api image search will require the following :sparkles: before running the app;  </p></h1>
 <br />
 
 
