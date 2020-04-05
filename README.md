@@ -15,7 +15,7 @@
 
 <h2><b><p align="center">const apiKey = 'YOUR API KEY';</p></b></h2>
 <h2><b><p align="center">export default apiKey;</p></b></h2>
-.
+
 <br />
 <br />
 <h4><b>3. Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details</h4></b>
@@ -30,11 +30,7 @@
 <h2><b><p align="center">Create React App references below;</p></b></h2>
 </br>
 
-```diff
-- npm start
-```
-
-```npm start```
+<h2>```npm start```</h2>
   
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
