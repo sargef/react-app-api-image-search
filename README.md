@@ -21,8 +21,9 @@
 6. __View on localhost port 3000 as suggested inside your terminal.__ :+1:
 
 Create React App references below;
-
-#```npm start```
+<h3>
+```npm start```
+  </h3>
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
