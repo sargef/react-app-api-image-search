@@ -1,5 +1,4 @@
-
- :sparkles: <h1><b><p align="center">React App Api Image Search</p></b></h1>  :sparkles: 
+<h1><b><p align="center">  :sparkles: React App Api Image Search :sparkles: </p></b></h1>
 
 
 <h3><b><p align="center">Click to see live Image Search Submission!!</p></b></h3>
