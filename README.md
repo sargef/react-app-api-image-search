@@ -21,20 +21,20 @@
 6. __View on localhost port 3000 as suggested inside your terminal.__ :+1:
 
 Create React App references below;
-<h3>
+
 ```npm start```
-  </h3>
+  
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
-__npm test__
+```npm test```
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-__npm run build__
+```npm run build```
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -43,7 +43,7 @@ __Your app is ready to be deployed!__
 
 See the section about deployment for more information.
 
-__npm run eject__
+```npm run eject```
 Note: this is a one-way operation. Once you eject, you can’t go back!
 
 If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
@@ -52,26 +52,26 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-__Learn More__
+<h2>Learn More</h3>
 You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
 
-__Code Splitting__
+<h3>Code Splitting</h3>
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-__Analyzing the Bundle Size__
+<h3>Analyzing the Bundle Size</h3>
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-__Making a Progressive Web App__
+<h3>Making a Progressive Web App</h3>
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-__Advanced Configuration__
+<h3>Advanced Configuration</h3>
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-__Deployment__
+<h3>Deployment</h3>
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-__npm run build fails to minify__
+<h3>npm run build fails to minify</h3>
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
