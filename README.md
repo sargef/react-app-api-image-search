@@ -22,7 +22,7 @@
 
 Create React App references below;
 
-__npm start__
+```ruby__npm start__```
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
