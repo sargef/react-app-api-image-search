@@ -20,8 +20,9 @@
 .
 <br />
 <br />
-3. __Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details__.
-4. __Run npm install in the root of the project__.
+<h4><b>3. Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details.</h4></b>
+<h4><b>4. __Run npm install in the root of the project.
+</h4></b>
 5. __npm start.__
 6. __View on localhost port 3000 as suggested inside your terminal.__ :+1:
 <br />
