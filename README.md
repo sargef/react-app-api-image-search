@@ -31,35 +31,35 @@
 </br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-<h3><b><p align="center">npm start.</p></b></h3>
+<h2><b><p align="center">npm start.</p></b></h2>
 </br>
 
 
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+<p align="center">Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.</p>
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+<p align="center">The page will reload if you make edits.
+You will also see any lint errors in the console.</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-<h3><b><p align="center">npm test.</p></b></h3>
+<h2><b><p align="center">npm test.</p></b></h2>
 </br>
 
 
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+<p align="center">Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-<h3><b><p align="center">npm run build.</p></b></h3>
+<h2><b><p align="center">npm run build.</p></b></h2>
 </br>
 
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="center">Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.</p>
 
-The build is minified and the filenames include the hashes.
-__Your app is ready to be deployed!__
+<p align="center">The build is minified and the filenames include the hashes.
+<h3>Your app is ready to be deployed!</h3></p>
 
-See the section about deployment for more information.
+<p align="center">See the section about deployment for more information.</p>
 
 <h2>Learn More</h3>
 You can learn more in the Create React App documentation.
