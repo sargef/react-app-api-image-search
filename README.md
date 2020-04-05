@@ -15,9 +15,9 @@
 2. __Provide a config.js file in the root of your project, within this file add your api key like so;__.
 <br />
 
-<h3><b><p align="center">const apiKey = 'YOUR API KEY';
-export default apiKey;</p></b></h3>
-
+<h3><b><p align="center">const apiKey = 'YOUR API KEY';</p></b></h3>
+<h3><b><p align="center">export default apiKey;</p></b></h3>
+.
 <br />
 <br />
 3. __Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details__.
