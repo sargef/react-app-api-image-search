@@ -4,10 +4,9 @@ import {
   BrowserRouter 
 } from 'react-router-dom';
 
-// Set Nav class and export
 export default class Nav extends Component {
 
-// Handle query navigation
+// Handle nav link query navigation
   handleSubmit = query => {
     this.props.onSubmit(query);
   };
