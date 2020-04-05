@@ -4,6 +4,7 @@ import NoPhotos from './NoPhotos';
 
 const PhotoList = (props) => { 
   
+  // Render api search results function if search word(s) match images available from fickr api. If none found, render 'Not found' page display
   const results = props.photos;
   let photos;
   if (results.length) {
