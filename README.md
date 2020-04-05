@@ -30,8 +30,9 @@
 <h2><b><p align="center">Create React App references below;</p></b></h2>
 </br>
 ----------------------------------------------------------------------------------------------------------------------------------------
-<h3><b><p align="center">`npm start`</p></b></h3>
+<h3><b><p align="center">npm start</p></b></h3>
 ----------------------------------------------------------------------------------------------------------------------------------------
+</br>
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
