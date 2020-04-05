@@ -38,7 +38,7 @@ Open http://localhost:3000 to view it in the browser.
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
-<mark>npm test</mark>
+<h2><mark>npm test</mark></h2>
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
