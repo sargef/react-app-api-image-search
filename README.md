@@ -11,8 +11,8 @@
 <br />
 
 
-1. __Sign up with flickr and apply for a non-commercial api key https://www.flickr.com/services/apps/create/apply__.
-2. __Provide a config.js file in the root of your project, within this file add your api key like so;__.
+<h4><b>1. Sign up with flickr and apply for a non-commercial api key https://www.flickr.com/services/apps/create/apply.</h4></b>
+<h4><b>2. Provide a config.js file in the root of your project, within this file add your api key like so;.</h4></b>
 <br />
 
 <h3><b><p align="center">const apiKey = 'YOUR API KEY';</p></b></h3>
@@ -20,11 +20,10 @@
 .
 <br />
 <br />
-<h4><b>3. Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details.</h4></b>
-<h4><b>4. __Run npm install in the root of the project.
-</h4></b>
-5. __npm start.__
-6. __View on localhost port 3000 as suggested inside your terminal.__ :+1:
+<h4><b>3. Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details</h4></b>
+<h4><b>4. __Run npm install in the root of the project.</h4></b>
+<h4><b>5. npm start.</h4></b>
+<h4><b>6. View on localhost port 3000 as suggested inside your terminal.</h4></b> :+1:
 <br />
 <br />
 <br />
