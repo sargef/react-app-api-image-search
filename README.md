@@ -13,14 +13,14 @@ The react api image search will require the following before running the app;
 2. Provide a config.js file in the root of your project, within this file add your api key like so;
 
 #const apiKey = 'YOUR API KEY';
-export default apiKey;#
+#export default apiKey;
 
-3. Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details.
-4. Run npm install in the root of the project.
-5. npm start.
-6. View on localhost port 3000 as suggested inside your terminal.
+3. ##Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details.
+4. ##Run npm install in the root of the project.
+5. #npm start.
+6. ##View on localhost port 3000 as suggested inside your terminal. :EMOJICODE: :+1:
 
-Create React App references below;
+#Create React App references below;
 
 npm start
 Runs the app in the development mode.
