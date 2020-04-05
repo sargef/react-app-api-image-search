@@ -7,7 +7,7 @@
 
 <h2><b><p align="center">Image Search via Flickr</p></b></h2>
 
-<p align="center">The react api image search will require the following before running the app;</p>
+<h1><p align="center">The react api image search will require the following before running the app;</p></h1>
 <br />
 
 
@@ -21,7 +21,7 @@
 <br />
 <br />
 <h4><b>3. Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details</h4></b>
-<h4><b>4. __Run npm install in the root of the project.</h4></b>
+<h4><b>4. Run npm install in the root of the project.</h4></b>
 <h4><b>5. npm start.</h4></b>
 <h4><b>6. View on localhost port 3000 as suggested inside your terminal.</h4></b> :+1:
 <br />
