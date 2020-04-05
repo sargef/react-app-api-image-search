@@ -27,13 +27,14 @@ export default class App extends Component {
       title: "",
       loading: true
     };
-  } 
-
+  }
+  
+// Function set to perform search for api is initilised. Awaiting render instructions.
   componentDidMount() {
     this.performSearch();
   }
   
-// Construct api url and set perform search query on api results
+// Construct api url and set to perform search query on api results
   performSearch = (query = 'waterfalls') => {
     axios.get(`https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=${apiKey}&tags=${query}&per_page=24&format=json&nojsoncallback=1`)
     .then(response => {
