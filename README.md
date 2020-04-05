@@ -6,7 +6,7 @@
 
 <h2><b><p align="center">Image Search via Flickr</p></b></h2>
 
-<h1 style="color:blue"><p align="center"> :sparkles: The react api image search will require the following :sparkles: before running the app;  </p></h1>
+<h1><p align="center"> :sparkles: The react api image search will require the following :sparkles: before running the app;  </p></h1>
 <br />
 
 <h4><b>1. Sign up with flickr and apply for a non-commercial api key https://www.flickr.com/services/apps/create/apply.</b></h4>
@@ -20,7 +20,7 @@
 <br />
 <h4><b>3. Add a .gitignore file to your app and make sure it includes the config.js file so that others cannot view your key details</h4></b>
 
-<a><img src="https://github.com/sargef/react-app-api-image-search/blob/master/src/images/config.png" width="180" height="80"></a>
+<a align="center"><img src="https://github.com/sargef/react-app-api-image-search/blob/master/src/images/config.png" width="150" height="60"></a>
 
 <h4><b>4. Run npm install in the root of the project.</h4></b>
 <h4><b>5. npm start.</h4></b>
