@@ -69,7 +69,7 @@ export default class App extends Component {
               <Switch>
                 <Route exact path="/" render={() => <Redirect to="/waterfalls"/>} />
                 <Route exact path="/:query" render={()  =>  <PhotoList photos={this.state.photos} query={this.state.query}/>} />
-                <Route component={Error404Page} />
+                <Route path="*" component={Error404Page} />
               </Switch>
             )}   
         </div>
